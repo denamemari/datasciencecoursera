@@ -1,0 +1,13 @@
+Part1: Create a dataset by merging the train and the test, includes
+data has been read and in next step clomuns name has been ctreated
+then all trainY,trainX and SubTrain has been merged together and read in test data
+column name for test data has been created 
+all TestY,TestX and SubTest has been merged together and read in test data the last step was create FinalDat Set by merging training and test data sets
+
+Part 2: calculate mean and standard deviation
+Part 3: activities were named based on descriptive activity 
+Part 4: named data set by adescriptive activities
+Part 5: FinalTidyData set has been created based on average of each variable by each activity and subject.
+data fam FinalTidyData set has been summerized, merged with descriptive activity names 
+
+finally : data set ( FinalTidyData ) has been exported.
